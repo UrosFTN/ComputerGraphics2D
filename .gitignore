@@ -1,0 +1,17 @@
+# Visual Studio specific
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled files
+*.obj
+*.dll
+*.exe
+*.ipch
+*.pch
+
+# Auto-generated
+bin/
+obj/
