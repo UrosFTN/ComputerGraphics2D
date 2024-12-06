@@ -1,0 +1,133 @@
+﻿  main.cpp
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(207,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(208,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(209,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(211,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(212,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(213,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(216,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(217,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(219,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(220,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(221,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(260,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(264,14): warning C4305: '=': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(268,15): warning C4305: '=': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(272,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(273,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(278,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(279,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(334,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(335,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(339,18): warning C4305: '=': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(343,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(344,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(345,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(359,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(359,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(359,52): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(359,57): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(359,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(360,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(360,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(360,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(361,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(361,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(361,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(361,58): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(361,63): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(364,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(364,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(364,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(365,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(365,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(366,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(366,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(366,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(369,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(369,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(369,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(370,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(370,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(370,56): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(370,61): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(371,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(371,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(371,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(386,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(386,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(386,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(386,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(387,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(387,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(387,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(387,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(387,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(388,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(388,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(388,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(388,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(389,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(389,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(389,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(389,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(389,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(391,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(391,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(391,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(392,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(392,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(392,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(392,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(393,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(393,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(393,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(394,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(394,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(394,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(394,53): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(396,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(396,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(396,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(396,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(397,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(397,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(397,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(397,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(397,55): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(398,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(398,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(398,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(398,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(399,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(399,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(399,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(399,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(399,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(417,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(418,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(418,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(420,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(420,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(421,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(550,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(608,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(609,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(613,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(635,28): warning C4305: '-=': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(646,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(647,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(654,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(655,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(656,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(664,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(716,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(750,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(851,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(852,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(860,134): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(1023,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(1027,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(1089,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\main.cpp(1093,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Sablon.vcxproj -> E:\FTN-S7\Racunarska grafika\Vezbe 0\RG w0\Sablon\x64\Debug\Sablon.exe
